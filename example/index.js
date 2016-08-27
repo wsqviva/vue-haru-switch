@@ -1,5 +1,5 @@
 import Vue from 'vue';
-import HaruSwitch from '../src/HaruSwitch.vue';
+import HaruSwitch from '../src/haruswitch.vue';
 
 new Vue({
   el: 'body',
