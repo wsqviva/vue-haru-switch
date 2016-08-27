@@ -1,6 +1,5 @@
 <template>
   <div class="haru-switch">
-    <!--<input type="checkbox" class="haru-switch-input" v-model="value">-->
     <div class="haru-switch-input" :class="checkedClass" @click="startSwitch">
       <div class="input-back"></div>
       <div class="input-front" v-el:btn></div>
